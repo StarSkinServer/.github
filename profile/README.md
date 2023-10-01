@@ -3,8 +3,7 @@
 
 ## 其他
 - StarSkin :
-- Ⅰhttps://star-skin.cn
-- Ⅱhttps://js-free.star-skin.cn
+- https://star-skin.cn
 
 - Docs :
 - https://docs.star-skin.cn
@@ -13,4 +12,4 @@
 - https://flarum.star-skin.cn
 
 - 监控 ：
-- https://status.star-skin.cn/status/sk-status
+- https://status.star-skin.cn/status/service
