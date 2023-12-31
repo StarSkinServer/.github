@@ -1,5 +1,5 @@
 ## Hi ! This is StarSkinServer
-介绍：StarSkin是一家新兴的皮肤站，立志于为所有Minecraft玩家提供服务。
+介绍：StarSkin是一家新兴的皮肤站，致力于为所有Minecraft玩家提供服务。
 
 ## 其他
 - StarSkin :
@@ -9,7 +9,16 @@
 - https://docs.star-skin.cn
 
 - 论坛 ：
-- https://flarum.star-skin.cn
+- https://bbs.star-skin.cn
 
 - 监控 ：
-- https://status.star-skin.cn/status/service
+- https://stats.star-skin.cn
+
+- 赞助 ：
+- https://sponsor.star-skin.cn
+
+- API :
+- https://api.star-skin.cn
+
+- 镜像站（维护） ：
+- https://download.star-skin.cn
